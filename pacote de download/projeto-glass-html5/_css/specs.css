@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+section#corpo-spec{
+	width: 1250px;
+	margin: auto;
+}
+
+iframe#frame-spec{
+	width: 430px;
+	height: 280px;
+	border: none;
+}
+
+div#div-specs{
+	width: 950px;
+	display: blocks;
+	margin: auto;
+}
